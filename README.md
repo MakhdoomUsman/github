@@ -1,2 +1,2 @@
 # github
- Here is responsive react websites
+ Here is responsive practice websites
