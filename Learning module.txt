@@ -1,0 +1,57 @@
+javascript raod MAP:
+
+1. alert messages(It is used to create a pop up on the screen)
+
+2. types in javacript(A;; data types used in the javascript 
+ i-string
+ii-tyoeof(function stated to find out the datatype of the variabl))
+
+3.Prompt(is is identical to alert but it also allow the user to enter any information it is not saved in memory )
+  varirbales:  var 
+
+4. Naming convention
+
+5.Concatination: adding two strings in one line
+
+6.Length(use to find out the length of the sring : nam.length)
+
+7.slicing (used to get value from a string) name.slice(0,1)(take first character only ) name.slice(0,3 ()take first three characters)
+
+8.toUpperCase (is is used to convert alphabets into upper case characters)
+  toLowerCase (used to convert all aphabets into lower case)
+
+9.numbers values adition multiplication division subtraction and modules used by the brackets.
+
+10.incriment and dicriment +=(add a value by any numbers)
+
+11.Function (3 types) (function functionName(){here we write all instructions that we want to excuted and called by functionName(); })
+
+12.Function(Paramteric function )
+
+13. Function (Return a value )
+
+Start Intermidiate javascript 
+
+14. Randomization(Math.random();)
+
+15. If else statement 
+
+16. Copareter and equalities.
+
+17. AND && , OR || , NOT ! (Comparitive statements)
+
+18. array (length(used to find length of array) include(used to find whether an element is in array or not))
+
+19.arrayName.push() or arrayName.pop() 
+
+20.while statement 
+
+start learning about DOM(Document object model )
+
+21.link javascript with the website
+
+
+
+19.   
+
+
