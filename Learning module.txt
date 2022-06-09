@@ -51,7 +51,34 @@ start learning about DOM(Document object model )
 21.link javascript with the website
 
 
+19.What is Document object model(slector getter setter and methods using objects and selector)
 
-19.   
+20. get element in javascriprt
+   document.getElementsByTagName it will return an array of all element with same tagb name  so  if we have to give an property then we will eccess it by index number.
+   document.getElelmentsByClassName("Here we Enter class name use to access specific unique element ");
+   document.getElementById("We will got a unique ID element.");
+   after all these is we will use '.' and give  a property to this sepcified element.
+
+   document.querySelector("h1");we will sleect a sleector or class or id to select if we want an specific element then it will used as "li a";
+   W can also use combine selector using class or id with selector
+   Heirarichal selector is also used in which we can used class and selector
+   document.querySelectorAll("#list .item");
+
+21. How to use javascript to manupulate element using jabascript
+   in the javascript we have to change naming conention we will change dashes to first large alphabet as font-size will be used as fontSize.
+
+22.separation of conscerns (create separate file for separate property like html css and javascript) 
+    we can also class name or id using javascript by taking out classList a relative item in javascript then we will add class name what and i want and can be change it to our requirement.
+    document.querySlector("button").classList.add("invisible"); this line will add a class to all buttons and we can also remove it usinf remove
+    .toggle will used if of have element then it will not add other wise it will add element. 
+
+23. textContent and innerHTMl ( these both are used to change element innerHTML eccess all the data including html if contains in the element but textContent will only acces to the text in the tag .
+
+24.Attribute Selector in DOM
+    attribute use to see attribute
+    getAttribute used to get the value of an attribute
+    setAttribute take two elements (1 for used to get attribute and second for the attribute value which we want ot assign to change value of attribute )
+
+now we are studing about the Advance javascript with DOM manupilition
 
 
